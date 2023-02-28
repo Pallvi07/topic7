@@ -1,0 +1,29 @@
+*{
+    background-color: beige;
+}
+
+#add-device{
+    color: black;
+    background-color:tan;
+    font-weight: bold;
+    margin-left: 3px;
+    font-size: 21px;
+}
+
+#user, #name{
+    background-color:wheat;
+}
+
+h2,h3{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.form-group{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.table{
+    font-size: 21px;
+}
